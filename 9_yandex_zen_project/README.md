@@ -15,4 +15,4 @@ PostgreSQL, Python, SQLAlchemy, Tableau, dash, построение дашбор
 
 [Ссылка на дашборд](https://public.tableau.com/app/profile/olya6306/viz/Practicumproject/Dashboard1)
 
-[Презентация по проекту](https://github.com/olyautrom/data_analyst/blob/master/9_yandex_zen_project/yandex_zen_dashbord.pdf)
+[Презентация по проекту](https://github.com/olyautrom/data_analyst_yandex_practicum/blob/master/9_yandex_zen_project/yandex_zen_dashbord.pdf)

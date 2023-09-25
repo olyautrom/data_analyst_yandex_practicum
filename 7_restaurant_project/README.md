@@ -17,4 +17,4 @@ Pandas, Plotly, Python, Seaborn, визуализация данных
 - plotly.graph_objects
 - seaborn
 
-[Презентация по проекту](https://github.com/olyautrom/data_analyst/blob/master/7_restaurant_project/restaurant_project.pdf)
+[Презентация по проекту](https://github.com/olyautrom/data_analyst_yandex_practicum/blob/master/7_restaurant_project/restaurant_project.pdf)

@@ -17,5 +17,5 @@ Matplotlib, Pandas, Python, Tableu, Seaborn, Plotly, исследователь�
 - plotly.express
 - scipy.stats
 
-[Презентация по проекту](https://github.com/olyautrom/data_analyst/blob/master/12_marketing_ab_test_project/retail_project.pdf)
+[Презентация по проекту](https://github.com/olyautrom/data_analyst_yandex_practicum/blob/master/11_retail_project/retail_project.pdf)
 [Дашборд](https://public.tableau.com/app/profile/olya6306/viz/Retailproject_16534238637880/Dashboard1)
